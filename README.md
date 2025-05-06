@@ -13,6 +13,8 @@ Funcionalidades principais:
 
     Baixa as capas automaticamente.
 
+    Baixa os consoles necessarios de forma automatica para evitar mais configurações manuais dos usuários.
+
     Usa arquivos .json para manter a base de dados leve e facilmente editável.
 
     Executa os jogos com runners já configurados, sem necessidade de ajustes manuais.
