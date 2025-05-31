@@ -3,7 +3,7 @@ Raijin Plus
 Um agregador de jogos poderoso, leve e organizado — criado para quem quer praticidade no Linux.
 
 Sobre o projeto:
-O Raijin Plus nasceu da ideia de tornar a experiência de organizar e executar jogos no Linux algo simples, visual e direto. Enquanto outras plataformas, como o Lutris, podem ser confusas ou desorganizadas, o Raidinho traz clareza, automação e estrutura.
+O Raijin Plus nasceu da ideia de tornar a experiência de organizar e executar jogos no Linux algo simples, visual e direto. Enquanto outras plataformas, como o Lutris, podem ser confusas ou desorganizadas, o Raijin traz clareza, automação e estrutura.
 
 Funcionalidades principais:
 
