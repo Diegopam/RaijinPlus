@@ -1,4 +1,4 @@
-# RaijinPlus
+# RaijinPlus 1
 Raijin Plus
 Um agregador de jogos poderoso, leve e organizado — criado para quem quer praticidade no Linux.
 
